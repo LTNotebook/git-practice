@@ -3,3 +3,5 @@
 #Code hereeee 
 
 print("I love things")
+
+print("Coding other things cause I'm smort")
